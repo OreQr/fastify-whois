@@ -1,9 +1,13 @@
 {
-  "name": "fastify",
-  "repository": "https://github.com/vercel/examples.git",
-  "license": "MIT",
-  "private": true,
+  "name": "fastify-whois",
+  "scripts": {
+    "vercel": "vercel dev"
+  },
   "dependencies": {
-    "fastify": "^4.25.2"
+    "fastify": "^4.25.2",
+    "whoiser": "^1.17.1"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.0.17"
   }
 }

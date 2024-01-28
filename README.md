@@ -1,21 +1,18 @@
-# Fastify + Vercel
-
-This example shows how to use Fastify with Vercel Functions.
+# fastify-whois
 
 ## Demo
 
-https://fastify-example.vercel.app/
+https://fastify-whois.vercel.app/
 
 ## Running Locallly
 
 ```bash
-npm i
-npm i -g vercel@latest
-vercel dev
+npm install
+npm run vercel
 ```
 
 ## One-Click Deploy
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
+Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/starter/fastify&project-name=fastify&repository-name=fastify)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FOreQr%2Ffastify-whois)
